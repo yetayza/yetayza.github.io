@@ -1,0 +1,143 @@
+p{
+	font-family: 'Roboto', sans-serif;
+	font-size: 13px;
+	line-height: 1.8em
+	color: #666;
+}
+*a{
+	cursor: pointer !important;
+}
+.mdj-logo{
+	width: 150px;
+}
+.mdj-logo-sm{
+	width: 40px;
+}
+.nav{
+	background-color: #2a333c !important;
+}
+.pad-15{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.pad-30{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.btn-red-fill{
+	color:#fff;
+	background-color: #db1422;
+	border: 1px solid #db1422;
+
+}
+.btn-red-fill:hover {
+	color: #2a333c;
+}
+h3 , .jumbotron h2{
+	color: #2a333c;
+}
+.head-underline:after{
+	background: #db1422;
+    content: "";
+    display: block;
+    height: 5px;
+    margin-top: 10px;
+    width: 32px;
+}
+
+.pull-right{
+	float: right;
+	position: relative;
+}
+.job-title{
+	font-size: 16px;
+	color: #2a333c !important;
+	font-weight: bold;
+	padding: 5px 10px;
+}
+.job-title-divider{
+	
+	background-color: #ddd;
+	/*padding: 13px 1px;*/
+	padding: 7px;
+	margin-top: 5px;
+	display: block;
+	float: left;
+	position: relative;
+
+}
+.company-name
+{
+	/*background-color: #fff;*/
+	font-size: 12px;/*
+	border-radius: 3px;
+	color: #666;
+	border:1px solid #ddd;*/
+}
+.company-name a:hover{
+	background-color: #db1422;
+	color: #fff !important;
+}
+.job-title:hover{
+	color: #db1422 !important;
+}
+.job-row:hover .company-name a{
+	border-color: #db1422;
+	color: #db1422;
+}
+/*.border-2right{
+	border-right: 2px solid #fff;
+}*/
+.company-name a{
+	color: #666;
+}
+.date{
+	color: #666;
+	padding:5px 25px;
+}
+.job-row{
+	border-bottom:1px solid #e3e3e3;
+	padding: 20px 0 10px 0;
+}
+.job-row:hover{
+	/*background-color: #f1f1f1;*/
+}
+
+.subscribe{
+	background-color: #db1422;
+	margin-top: 50px;
+	color: #fff;
+}
+/*Form*/
+.input-group{
+	/*background-color: #fff;*/
+}
+.subscribe h3{
+	color: #fff;
+}
+.btn-subscribe{
+	color: #ffffff;
+     background-color: #2a333c; 
+    /* border-color: #46b8da; */
+}
+.subscribe-input{
+	margin-right: 10px;
+	color: #2a333c;
+	background-color: #fff !important;
+	text-align: left;
+}
+.btn-subscribe:hover{
+	color: #db1422;
+}
+footer{
+	background-color: #2a333c;
+	
+}
+footer h4 , footer p , footer p a{
+	color: #fff !important;
+}
+
+
+
+
+
